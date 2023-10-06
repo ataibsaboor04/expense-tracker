@@ -1,0 +1,23 @@
+[
+  {
+    "id": "9cafd4e5-cf75-4094-b6aa-d0ccfe065049",
+    "title": "Flutter Course",
+    "amount": 29.99,
+    "date": "2023-09-16T00:00:00.000",
+    "category": "leisure"
+  },
+  {
+    "id": "d64c9014-df87-479c-865b-a0e5853b77fa",
+    "title": "Burger",
+    "amount": 30.0,
+    "date": "2023-09-16T00:00:00.000",
+    "category": "food"
+  },
+  {
+    "id": "bf8caca2-d5d6-4bf9-a61d-a86caac7447f",
+    "title": "School",
+    "amount": 30.0,
+    "date": "2023-09-16T00:00:00.000",
+    "category": "work"
+  }
+]
